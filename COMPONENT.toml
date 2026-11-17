@@ -3,7 +3,7 @@ name = "SigmaOS-xorg-xauth"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "xorg-xauth component"
+description = "SigmaOS SigmaOS-xorg-xauth component"
 upstream = []
 
 [contract]
